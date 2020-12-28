@@ -1,0 +1,13 @@
+# sdm660_64-user 10 QKQ1 72 release-keys
+- manufacturer: asus
+- platform: sdm660
+- codename: ASUS_X00TD
+- flavor: sdm660_64-user
+- release: 10
+- id: QKQ1
+- incremental: 17.2017.2012.438-20201203
+- tags: release-keys
+- fingerprint: 
+- brand: asus
+- branch: sdm660_64-user-10-QKQ1-72-release-keys
+- repo: asus_asus_x00td_dump
